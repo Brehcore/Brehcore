@@ -1,8 +1,5 @@
-- Hi 🙃, My nickname is @Brehcore
-- I’m studying programming 👩‍💻
-- I intent to collaborate with the codes I'm developing 🤝
+<h3>Hello World</h3>
 
-<!---
-Brehcore/Brehcore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github.com/Brehcore/presentation/blob/main/cattyping.gif?raw=true" alt="cattyping" width="100" heitgh="90">
+
+*[LinkdIn](https://www.linkedin.com/in/brenasoares/)*
