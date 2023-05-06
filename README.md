@@ -2,4 +2,4 @@
 
 <img src="https://github.com/Brehcore/presentation/blob/main/cattyping.gif?raw=true" alt="cattyping" width="100" heitgh="90">
 
-*[LinkdIn](https://www.linkedin.com/in/brenasoares/)*
+*[Linkedln](https://www.linkedin.com/in/brenasoares/)*
