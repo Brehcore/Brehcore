@@ -8,7 +8,7 @@ Sou desenvolvedora independente focada na construção de sistemas robustos e es
 
 ### 🧰 Stack Técnica
 
-* **Back-end:** Java 21 (LTS), Spring Boot 3, Spring Security (JWT/RBAC), Spring Data JPA, Jakarta EE.
+* **Back-end:** Java, Spring Boot, Spring Security (JWT/RBAC), Spring Data JPA, Jakarta EE.
 * **DevOps & Infra:** Docker Swarm, Docker Compose, Gerenciamento de Servidores Linux (SSH/Root), Deploy em VPS (Hostinger).
 * **Banco de Dados:** PostgreSQL, MySQL (Modelagem, Migrations e Otimização de Queries).
 * **Front-end & Automação:** Angular, TypeScript, VBA (Automação de Processos de Negócio).
