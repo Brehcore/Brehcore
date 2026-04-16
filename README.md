@@ -26,10 +26,6 @@ Sou desenvolvedora independente focada na construção de sistemas robustos e es
 
 > **Performance e Dados:** Foco em eficiência de persistência, utilizando técnicas como `EntityGraph` e `Join Fetch` para otimização de consultas e prevenção de problemas como N+1 queries.
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brehcore&layout=compact)
-
-
 ### 📫 Conecte-se comigo
 
 * **LinkedIn:** [linkedin.com/in/brenasoares/](https://www.linkedin.com/in/brenasoares/)
